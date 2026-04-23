@@ -1,0 +1,3 @@
+- [Dexfinity brand always](feedback_dexfinity_brand_always.md) — Každý vizuál MUSÍ byť v Dexfinity dizajne, nikdy nie generic — farby, fonty, logá
+- [Logo minimum sizes](feedback_logo_min_sizes.md) — Nav min 48px, footer min 64px, hero min 80px — pod 48px je "Go Beyond" tagline nečitateľný
+- [Dexfinity logo URLs](reference_dexfinity_logos.md) — Oficiálne logo URLs z dexfinity.com (Light variant pre biele pozadia, Dark pre navy)
