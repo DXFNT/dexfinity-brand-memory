@@ -1,3 +1,8 @@
-- [Dexfinity brand always](feedback_dexfinity_brand_always.md) — Každý vizuál MUSÍ byť v Dexfinity dizajne, nikdy nie generic — farby, fonty, logá
-- [Logo minimum sizes](feedback_logo_min_sizes.md) — Nav min 48px, footer min 64px, hero min 80px — pod 48px je "Go Beyond" tagline nečitateľný
-- [Dexfinity logo URLs](reference_dexfinity_logos.md) — Oficiálne logo URLs z dexfinity.com (Light variant pre biele pozadia, Dark pre navy)
+- [Dexfinity Brand Essence](reference_dexfinity_brand_essence.md) — Foundational. čo Dexfinity je, archetype, autoritatívne čísla (69/120+/34+/10 rokov), klient roster, ako rozmýšľa. Platí pre KAŽDÝ output.
+- [Dexfinity Tone of Voice](reference_dexfinity_tone_of_voice.md) — Ako Dexfinity hovorí. value-first, signal/noise, senior level, Pavlov LinkedIn štýl ako korporátny štandard 1:1.
+- [Dexfinity Emoji System](reference_dexfinity_emoji_system.md) — Zakázané 🚀🔥🍻, primárna paleta 💙📘🌀🌐🔵🔹🧊, sekundárna ✨⭐🛸🧿🪼. V auditoch a klientskych dokumentoch emoji NIE.
+- [Dexfinity Messaging Pillars](reference_dexfinity_messaging_pillars.md) — Štyri piliere (Know-how, AI+simplification, Cross-border, Performance), taglines, typické outputs per kanál.
+- [What Dexfinity Never Says](feedback_dexfinity_what_we_never_say.md) — Hard list zakázaných fráz a self-check checklist pred odoslaním.
+- [Dexfinity brand always](feedback_dexfinity_brand_always.md) — Každý vizuál MUSÍ byť v Dexfinity dizajne, nikdy nie generic. Farby, fonty, logá.
+- [Logo minimum sizes](feedback_logo_min_sizes.md) — Nav min 48px, footer min 64px, hero min 80px.
+- [Dexfinity logo URLs](reference_dexfinity_logos.md) — Oficiálne logo URLs z dexfinity.com (Light variant pre biele pozadia, Dark pre navy).
