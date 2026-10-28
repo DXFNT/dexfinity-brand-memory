@@ -68,6 +68,21 @@ Týchto 5 emoji použiteľných pri špecifických momentoch.
 | Event pages | ⚠️ 1 až 2 | Iba primary paleta |
 | Partnership decks | ⚠️ Max 2 | Iba primary paleta |
 
+### Platená sociálna reklama a lead formuláre (Meta, Instagram)
+
+Doplnené 28.10.2026. Pavol: modré smajlíky používame veľmi striedmo, nechceme byť generickí.
+
+| Miesto | Emoji | Pravidlá |
+|---|---|---|
+| Primárny text reklamy | ⚠️ Max 1 | Iba primárna paleta, s významom z tabuľky vyššie |
+| Nadpis reklamy, názov karty karuselu, CTA | ❌ Nie | |
+| Lead formulár (úvod, otázky, poďakovanie) | ⚠️ Max 1 v celom formulári | Ideálne v úvode, s významom (📘 pri ťaháku, 🔵 pri audite dát) |
+
+- **Žiadne emoji ako odrážky.** Zoznam výhod v reklame a vo formulári = nový riadok alebo číslo. 🔹 ostáva len pre dlhý zoznam v LinkedIn poste.
+- **Mimo palety v reklamách nie**, ani keď ich používa konkurencia: ✅ ✔️ 👇 💸 🤩 ⏱️ 😬 💥 🙈 🛠️ 🤷 1️⃣ a podobne.
+- **Test pred publikovaním:** zmaž emoji. Ak veta nestratila význam, emoji tam nepatrí.
+- **Prečo si to môžeme dovoliť:** v našich lead kampaniach cenu leadu ťahala ponuka (PDF hneď, report do 24 hodín), nie počet emoji. Striedmosť nás nestojí nič merateľné a odlíši nás od agentúr, ktoré píšu ako všetci.
+
 ### Per funkcia
 
 - **Dekoratívny emoji = zakázaný.** Každý emoji musí niesť význam z palety.
