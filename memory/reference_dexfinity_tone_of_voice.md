@@ -89,6 +89,10 @@ Napriek profesionalite zachovať ľudskosť, prirodzenosť, emóciu, autenticitu
 
 Číselné rozsahy. namiesto "10–15" píš "10 až 15". Dátumové rozsahy. "1.4. až 15.4.".
 
+### Vykanie voči novým klientom a v reklame
+
+Reklamy, lead formuláre, landing pages, cold a warm outreach a všetko, čo číta potenciálny klient, píšeme **vykaním**. Na začiatku spolupráce je vzťah formálnejší a naša cieľovka (majitelia a manažéri e-shopov a firiem) si vyká. Tykanie len tam, kde si s človekom už tykáme (kolegovia, blízki partneri). Aj keď niektorá tykajúca reklama mala nízku cenu za lead, brand register má prednosť. Pavol 28.10.2026: tykanie je v rozpore s naším brand kódom aj s cieľovkou.
+
 ### Krátke vety nad dlhými súvetiami
 
 Jedna myšlienka, jedna veta. Bodka. Ďalšia veta. Namiesto dlhých súvetí spojených pomlčkami radšej viac jednoduchých viet.
